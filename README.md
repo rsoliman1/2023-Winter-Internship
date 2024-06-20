@@ -3,4 +3,4 @@ This repository contains code developed during my Winter 2023 Internship at Bech
 
 Please note that certain files, such as the dataset and other provided files, are not included due to restrictions on public distribution as per Bechtel's policies.
 
-For detailed information about the project requirements, refer to the file titled 'Sprinternship Challenge Project'.
+To learn more in detail about the project description, refer to the file titled 'Sprinternship Challenge Project'.
